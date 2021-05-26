@@ -1,0 +1,3 @@
+# firmare
+the firmwares found in here are not in qmk master. if a board's firmware is *not* found here, then it's in qmk master :D
+these folders a keyboard folders to be dropped into your local qmk build environment. if you do not have as local qmk build environment setup, please follow [the guide](https://beta.docs.qmk.fm/tutorial/newbs_getting_started) and get that taken care of so you can compile your firmware. there *are* default hex's in this repository but if you want to change your keymap you will need to do the aforementioned stuff.
